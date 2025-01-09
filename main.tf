@@ -12,3 +12,4 @@ resource "azurerm_resource_group" "rg-teste" {
   location = var.location
 }
 
+
